@@ -20,6 +20,6 @@
 
 ![image](https://user-images.githubusercontent.com/92166889/180339025-28cdf18b-1450-4b1a-92b6-a84900f8aeb6.png)
 
-<h3>(3) example1 >> 개별 게시판 & 댓글(onview.jsp)</h3>
+<h3>(3) example2 >> 개별 게시판 & 댓글(onview.jsp)</h3>
 
 ![image](https://user-images.githubusercontent.com/92166889/180339171-a3b17f92-d1b0-479a-8816-5561c7669edb.png)
