@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/92166889/178655387-4a66d41b-38d7-4275-89e8-b1d98426a74a.png)
 
-# 2. 📄 게시판 구현 -- Spring OneToMany/ManyToOne
+# 2. 📄 게시판 구현 -- OneToMany/ManyToOne
 <h3>(1) 구조</h3>
 
 ![image](https://user-images.githubusercontent.com/92166889/180338074-dc89fb84-71e1-45ea-883a-f7b68d68fb5c.png)
